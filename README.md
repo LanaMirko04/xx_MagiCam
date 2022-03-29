@@ -6,7 +6,7 @@
 
 ## General info
 `magicam` is a face detection program powered by `OpenCV` and written in C/C++.
-The purpose of this program is to communicate with an Arduino board connected to 2 servos, a series of angles for moving the X and Y axis.
+The purpose of this program is to communicate with an Arduino board connected to 2 servos, a series of angles for moving a webcam on the X and Y axis.
 <!-- GIF Image -->
 ![](https://github.com/ItalianDudes/MagiCam/blob/main/screenshot/GIF.gif)
 
