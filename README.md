@@ -8,6 +8,7 @@
 `magicam` is a face detection program powered by `OpenCV` and written in C/C++.
 The purpose of this program is to communicate with an Arduino board connected to 2 servos, a series of angles for moving the X and Y axis.
 <!-- GIF Image -->
+![](https://github.com/ItalianDudes/MagiCam/blob/main/screenshot/GIF.gif)
 
 ## Build instruction
 **Prerequisite**
@@ -34,8 +35,7 @@ List of build-time dependencies:
 	```
 - Build - run actual compilation process:
 	```bash
-	make
-	```
+	make	```
 
 ## License
 Do What the Fuck You Want to Public License (WTFPL)
